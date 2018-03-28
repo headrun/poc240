@@ -1,0 +1,175 @@
+So, how did they ponzi it?
+How did Nirav Modi, Mehul Choksi and some
+rogue bankers take PNB for the mother of all rides?
+OMKAR GOSWAMI
+EVER SINCE THE Punjab National Bank(PNB)
+scam broke, we have been treated to a stream
+ofincredulous pieces of information. Here's
+a sample.
+First, that the mama-bhanja duo of Me-
+hul Choksi and Nirav Modi used the services
+ofa deputy manager, Gokulnath Shetty, and
+some other crooked junior employees of
+PNB's Brady House branch in Fort Mumbai,
+allegedly operating by themselves from little
+cubby holes, to defraud the bank of Rs 11,397
+crore.Second. Shetty repeatedly issued fraud
+banking instruments called Letters of
+Undertaking (LoU) in favour of Modi's and
+Choksi's firms,which allowed correspondent
+Indian bank branches abroad to pay for their
+diamond imports. Third, contrary to all rota-
+tional practices, Shetty remained at the same
+critical post for seven years.
+That's notall. Fourth, most of these LoU-
+based transactions occurred outside PNB's
+core banking system (CBS), which tracks
+every debit and credit forall PNB accounts
+across the globe and reconciles these on a
+daily basis. Fifth, none ofthe correspondent
+bank branches abroad appear to have offi-
+cially acknowledged PNB’s LoUs that they
+were honouring. And if they did, these doc-
+uments disappeared in some Brady House
+rabbit warren. Sixth neither PNB nor the cor-
+respondent banks ever smelt a rat. This is
+strange Diamond trade financing is a dicey
+business - with PNB itself having earlier suf-
+fered a large scandal involving Winsome
+Diamonds, whose promoter. Jatin Mehta, es-
+caped to becomea citizen ofabalmyand eth-
+ical Caribbean island called St Kitts and Nevis.
+And, last of all, the fraud came to light af-
+ter Shetty had retired. A foolish man from a
+Modi firm went to Shetty's successor to ask
+fora fresh LoU without any cash margin,
+claiming that it was never needed in thepast.
+No commentator can yet claim to know
+all the“real facts" of this scandal. Instead, let
+me pose some uncomfortable questions.
+An LoU is a good place to start It isa per-
+fectly sound instrument through which a
+bank(PNB, Brady House), on behalf of a cus-
+tomer(a Modi firm),undertakes to honour a
+payment made by another 
+
+bank (say Allahabad Bank's branch in Hong
+PNB was one of the first
+public sector banks to
+implement full-fledged
+computerisation which
+included the CBS. Brady
+House's SWIFT system was
+delinked with PNB's CBS.
+Was this do me manually by
+Shetty? Or is there no link
+whatsoever between all PNB
+originating SWIFT
+transactions and its CBS?
+The former is the act of a
+rogue; the latter the making
+of a systemic catastrophe.
+Kong) for imports by its client.Subject to an
+LoU's financial limits, the overseas bank of-
+fers short term buyer's credit to the importer,
+usually for 30 to 90 days. For any LoU, the is-
+suing bank earns a fee: the overseas bank
+earns interest which is LIBOR plus a spread;
+and the importer accesses significantly
+cheaper overseas credit.
+No problems up to here. Now start the
+uncomfortable questions
+Why were these LoUs repeatedly issued
+without any margin money? Moreover, any
+LoU sent to an overseas bank is automatically
+acknowledged. How could these acknowl-
+edgements disappear?
+Now to SWIFT. Globally, inter-bank in-
+structions for financial transactions are trans-
+mitted through SWIFT, a messaging system
+that requires a clear setof codes.Any SWIFT
+message must be vetted by three different
+people in the sending bank: A maker who
+keys in the message, a checkerand a verifier
+- the last doing the transmitting after being
+satisfied that everything is in order. How
+could Shetty blithely use other people's lo-
+gin identities and passwords for seven long
+years to show that these SWIFT messages in-
+volving increasingly larger amounts were ex-
+ecuted as prescribed?
+PNB was one of the first public sector ba-
+nks to implement full-fledged computerisa-
+tion which included the CBS. Brady House's
+SWIFTsystem was delinked with PN B's CBS.
+Was this done manually by Shetty? Or is
+there no link whatsoever between all PNB
+originating SWIFT trans actions and its CBS?
+The former is the act ofa rogue; thelatter the
+making of a systemic catastrophe.
+On to nostro accounts. Italian for "ours",
+nostro signifies “our bank's money held in
+another bank". When an overseas SWIFT
+transaction occurs, the 
+ for-
+eign currency amount is put into a nostro ac-
+count,which is automatically acknowledged
+by the overseas bank The counterpart over-
+seas bank is supposed to send a SWIFT mes-
+sage confirming the amount in the nostroac-
+count How can PNB, Brady House, have no
+records of these nostros?
+After the overseas bank offered buyer's
+credit to pay the supplier abroad for the
+sparklers imported by Nirav Modi, it should
+have debited the 
+ amount
+from the nostro account, and informed PNB,
+Brady House, ofthe final position against the
+
+ LoU, Where are these docu-
+ments? Why were these not eventually re-
+flected in PNB's CBS?
+If Nirav Modi paid in full on the duedate
+against every LoU issued, there would be no
+fraud. He didn't. Because he was expanding
+his business too fast,and needed more and
+more gems, without enough cash for these.
+So,Shetty obligingly created even larger LoUs
+with no margin money. used SWIFT. circum-
+vented CBS, which were then presented to
+the banks abroad for even more buyer's
+credit to purchase the next consignment of
+sparklers and pearls.
+Over the years, each of the overseas bank
+branches was presented larger and larger PNB-
+originated LoUs.What were theoverseas man-
+agers smoking? How come no one thought
+something was amiss and kept e*tending
+more buyer's credit without any serious cross-
+checking? What about “abundant caution , a
+term reverentially used by bankers?
+Next, who did the internal audits, branch
+audits, concurrent audits and statutory au-
+dits? What kind ofaudits were these with
+some Rs 11,400 crore slipping through the
+cracks? Were PNB's board of directors and
+audit committee sleeping on the watch?And
+why were these accounts not reconciled and
+squared up over seven years?
+Now to the regulator. What about the
+RBI’s audits -especially since the regulator
+is keen on keeping close tabs on large value
+nos tro accounts?
+Finally, given its past record,with the CBI
+taking over, should we at all expect to reach
+any sensible resolution?
+Throughout this scam, one inescapable
+fact stares us in the face. The public sector
+banking system has become rotten to the
+core, and such banks are ripe for easy gam-
+ing. But who cares, really?
+Goswami,founder and chairperson of CERG
+Advisory Private Limited, is author of
+‘Corporate bankruptcy in India:A
+comparative perspective‘
